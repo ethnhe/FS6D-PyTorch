@@ -4,7 +4,7 @@ This is the official source code for the CVPR 2022 work, **FS6D: Few-Shot 6D Pos
 [Project Page](fs6d.github.io) | [Arxiv](https://arxiv.org/abs/2203.14628) | [ShapeNet6D](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yhebk_connect_ust_hk/Ek9OaY-nmD1GqOZdqV05AbIBZqrPpGMqAZSqoqNHBps23Q?e=VF2Ozk)
 
 ## Raw Source Code & Pre-trained Weights
-- For those who want the code for reference, the uncleaned raw source code and pre-trained weights can be found [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yhebk_connect_ust_hk/Ek9OaY-nmD1GqOZdqV05AbIBZqrPpGMqAZSqoqNHBps23Q). I will clean it up if I have time. 
+For those who want the code for reference, the uncleaned raw source code and pre-trained weights can be found [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yhebk_connect_ust_hk/Ek9OaY-nmD1GqOZdqV05AbIBZqrPpGMqAZSqoqNHBps23Q). I will clean it up if I have time. 
 
 ## Introduction & Citation
 <div align=center><img width="55%" src="figs/intro.png"/></div>
