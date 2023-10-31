@@ -3,6 +3,9 @@ This is the official source code for the CVPR 2022 work, **FS6D: Few-Shot 6D Pos
 
 [Project Page](fs6d.github.io) | [Arxiv](https://arxiv.org/abs/2203.14628) | [ShapeNet6D](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yhebk_connect_ust_hk/Ek9OaY-nmD1GqOZdqV05AbIBZqrPpGMqAZSqoqNHBps23Q?e=VF2Ozk)
 
+## Raw Source Code & Pre-trained Weights
+- For those who want the code for reference, the uncleaned raw source code and pre-trained weights can be found [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yhebk_connect_ust_hk/Ek9OaY-nmD1GqOZdqV05AbIBZqrPpGMqAZSqoqNHBps23Q). I will clean it up if I have time. 
+
 ## Introduction & Citation
 <div align=center><img width="55%" src="figs/intro.png"/></div>
 We study the new open-set few-shot 6D object poses estimation problem: estimating the 6D pose of an unknown object by a few support views without CAD models and extra training. We propose a large-scale synthesis dataset for network pretraining. We also discuss possible solution to the problem and introduce a dense prototypes matching framework. The benchmark for the problem is established to facilitate future research as well.
